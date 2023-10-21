@@ -10,6 +10,14 @@ You can have access to the web application by entering the following url to your
 
 The following screenshots are previews of the webpage:
 
+![HomePage](/public/assets/images/NoteTaker-homepage.png)
+The Note Taker Home Page
+
+![NotesPage](/public/assets/images/NoteTaker-notespage.png)
+Notes Page
+
+![NoteExample](/public/assets/images/Note-example.png)
+Example of a new note with the save icon.
 
 ## Credits
 
